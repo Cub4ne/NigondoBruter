@@ -43,7 +43,7 @@ here's crypto stuff ykyk
 
 *UPDATES*
 
-- [ ] #Better and fast proxy
+- [ ] Better and fast proxy
 - [ ] Make it more easier to use
 - [ ] Get 25 dollars in LTC to fund for Nigondo's Bruter
 - [ ] Make a tutorial video on how to use it
