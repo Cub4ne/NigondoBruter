@@ -1,5 +1,5 @@
 # Nigondo's Bruter
-##-----------------
+#-----------------
 
 ***If you want to see ur hits, then join this discord server below***
 ------------
