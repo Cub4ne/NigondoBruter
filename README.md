@@ -11,7 +11,7 @@
 
 ***If you want to see ur hits, then join this discord server below***
 ------------
-https://discord.gg/Adg77v6Wfj - HITS
++ https://discord.gg/Adg77v6Wfj - HITS
 https://discord.gg/P4Gt2gNnST - Official Discord Server
 ------------
 
