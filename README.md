@@ -1,3 +1,11 @@
+> [!CAUTION]
+> WE ARE CURRENTLY FIXING THIS RIGHT NOW, PLEASE DO NOT USE.
+
+
+
+
+
+
 # Nigondo's Bruter
 -----------------
 
@@ -18,7 +26,7 @@ Thirdly, Go to app.py and boom, it will hit some accounts.
 > [!WARNING]
 > Warning, it wont hit accounts very fast, we need a better proxy so we can make it fast. If you're kind enough to donate us for better proxies ( check below )!!
 
-> [!CAUTION]
+> [!WARNING]
 > IF YOU SEE ANOTHER GIT PAGE WHICH EXCATLY LOOKS LIKE THIS, DO NOT DOWNLOAD ANYTHING OFF IT, THIS IS ONLY THE REAL ONE.
 
 > [!TIP]
