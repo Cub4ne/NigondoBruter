@@ -12,7 +12,7 @@
 ***If you want to see ur hits, then join this discord server below***
 ------------
 https://discord.gg/Adg77v6Wfj - HITS
-Official Discord Server - https://discord.gg/P4Gt2gNnST - Official Discord Server
+https://discord.gg/P4Gt2gNnST - Official Discord Server
 ------------
 
 # How to use
